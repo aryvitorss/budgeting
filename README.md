@@ -29,6 +29,6 @@ lombok
 - inserir a chave na variável ${GENAI_API_KEY} no application.properties 
 	spring.ai.google.genai.api-key=${GENAI_API_KEY}
 
-- Subir a aplicação java Springboot - http://localhost:8080/api - starter no Application (spring boot dashboard)
+- Subir a aplicação java Springboot - http://localhost:8080/ - starter no Application (spring boot dashboard)
 
 ###
